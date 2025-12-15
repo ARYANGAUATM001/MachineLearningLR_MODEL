@@ -35,5 +35,6 @@ How the Project Works -->
 RUN THE PROJECT -->
 
    1. Start the Flask application
-           python app.py
+
+      python app.py
 
