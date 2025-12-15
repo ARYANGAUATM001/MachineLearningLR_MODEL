@@ -13,3 +13,27 @@ How the Project Works -->
 4. A Flask web app loads the model and accepts user inputs.
 
 5. The model predicts the admission probability based on the inputs.
+
+
+🚀 Installation & Setup -->
+
+1. Clone the repository
+
+   git clone https://github.com/ARYANGAUATM001/MachineLearningLR_MODEL.git
+   cd MachineLearningLR_MODEL
+
+2. Create a virtual environment
+
+   python -m venv venv
+   source venv/bin/activate
+
+3. Install required packages
+
+   pip install -r requirements.txt
+
+
+RUN THE PROJECT -->
+
+   1. Start the Flask application
+           python app.py
+
