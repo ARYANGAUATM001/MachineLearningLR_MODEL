@@ -20,14 +20,16 @@ How the Project Works -->
 1. Clone the repository
 
    git clone https://github.com/ARYANGAUATM001/MachineLearningLR_MODEL.git
+   
    cd MachineLearningLR_MODEL
 
-2. Create a virtual environment
+3. Create a virtual environment
 
    python -m venv venv
+   
    source venv/bin/activate
 
-3. Install required packages
+5. Install required packages
 
    pip install -r requirements.txt
 
